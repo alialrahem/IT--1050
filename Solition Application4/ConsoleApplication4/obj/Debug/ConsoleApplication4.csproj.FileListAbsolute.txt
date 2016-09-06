@@ -1,9 +1,0 @@
-C:\Users\AliAlrahem\Desktop\Solition Application4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
-C:\Users\AliAlrahem\Desktop\Solition Application4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
-C:\Users\AliAlrahem\Desktop\Solition Application4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
-C:\Users\AliAlrahem\Desktop\Solition Application4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
-C:\Users\AliAlrahem\Desktop\Solition Application4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
-C:\Users\AliAlrahem\Desktop\Solition Application4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
-C:\Users\AliAlrahem\Desktop\IT-1050\Solition Application4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
-C:\Users\AliAlrahem\Desktop\IT-1050\Solition Application4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
-C:\Users\AliAlrahem\Desktop\IT-1050\Solition Application4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

@@ -1,0 +1,6 @@
+C:\Users\AliAlrahem\Downloads\GET HUB\SoltionApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\AliAlrahem\Downloads\GET HUB\SoltionApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\Users\AliAlrahem\Downloads\GET HUB\SoltionApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\AliAlrahem\Downloads\GET HUB\SoltionApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\AliAlrahem\Downloads\GET HUB\SoltionApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\AliAlrahem\Downloads\GET HUB\SoltionApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
